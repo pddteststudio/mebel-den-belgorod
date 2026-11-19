@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Авторский интерьерный эскиз мебели"><defs>
+      <linearGradient id="slivingsouthwestwall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EEE5"/><stop offset="1" stop-color="#E6E4DC"/></linearGradient>
+      <linearGradient id="slivingsouthwestfl" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#D9C6AC"/><stop offset="1" stop-color="#BBA487"/></linearGradient>
+      <linearGradient id="slivingsouthwestcab" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#47565B"/><stop offset=".52" stop-color="#47565B"/><stop offset="1" stop-color="#313C3C"/></linearGradient>
+      <linearGradient id="slivingsouthwestglass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8DADC" stop-opacity=".8"/><stop offset="1" stop-color="#587078" stop-opacity=".48"/></linearGradient>
+      <filter id="slivingsouthwestshadow"><feGaussianBlur stdDeviation="16"/></filter>
+      <pattern id="slivingsouthwestgrain" width="65" height="180" patternUnits="userSpaceOnUse"><path d="M10 0q-18 54 3 104t4 76M44 0q15 90-2 180" fill="none" stroke="#FFFFFF" stroke-opacity=".1" stroke-width="3"/></pattern>
+      <pattern id="slivingsouthwesttiles" width="105" height="105" patternUnits="userSpaceOnUse"><path d="M105 0H0V105" stroke="#fff" stroke-opacity=".32" fill="none" stroke-width="2"/></pattern>
+      </defs>
+      <rect width="1200" height="800" fill="url(#slivingsouthwestwall)"/>
+      <path d="M0 585L1200 530V800H0Z" fill="url(#slivingsouthwestfl)"/>
+      <path d="M0 585 1200 530" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="9"/>
+      <path d="M140 800 780 557M600 800 920 540M1060 800 1100 535" stroke="#EADDCF" stroke-opacity=".45" stroke-width="3"/>
+      <path d="M20 20v570" stroke="#b5a48e" stroke-opacity=".25" stroke-width="2"/>
+      <ellipse cx="600" cy="686" rx="520" ry="72" fill="#5d5245" opacity=".2" filter="url(#slivingsouthwestshadow)"/>
+      
+        <rect x="65" y="102" width="1050" height="460" fill="#EEE4D6"/>
+        <rect x="65" y="114" width="216" height="444" fill="#9B8063"/>
+        <rect x="290" y="200" width="553" height="370" fill="#E6E4DC"/>
+        <rect x="848" y="114" width="265" height="444" fill="#47565B"/>
+        <rect x="330" y="239" width="460" height="256" fill="#202B2A"/>
+        <rect x="345" y="254" width="431" height="222" fill="#40565C"/><path d="M350 471 774 268" stroke="#A4B7B4" stroke-opacity=".3" stroke-width="3"/>
+        <rect x="320" y="510" width="501" height="62" fill="#9B8063"/><path d="M485 511v60M652 511v60" stroke="#f2e5d5" stroke-opacity=".42" stroke-width="4"/>
+        <rect x="854" y="192" width="251" height="8" fill="#CBB398"/><rect x="854" y="321" width="251" height="8" fill="#CBB398"/><rect x="854" y="445" width="251" height="8" fill="#CBB398"/>
+        <circle cx="922" cy="298" r="30" fill="#9BA291"/><rect x="984" y="253" width="32" height="66" rx="4" fill="#D3BDA0"/><circle cx="971" cy="429" r="37" fill="#CBA985"/>
+        <path d="M150 558v-337M188 558v-337M233 558v-337" stroke="#D6BC9C" stroke-opacity=".42" stroke-width="4"/>
+        <path d="M255 668 942 645 1014 701 300 747Z" fill="#EEE7DC"/>
+        <rect x="371" y="657" width="380" height="50" rx="17" fill="#B8B7AC"/>
+        <rect x="0" y="0" width="1200" height="800" fill="#FFF1D8" opacity=".045"/>
+    <path d="M60 53h96M60 53v96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    <path d="M1140 747h-96M1140 747v-96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    </svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Авторский интерьерный эскиз мебели"><defs>
+      <linearGradient id="skitchensadovayawall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EEE5"/><stop offset="1" stop-color="#DEDBD2"/></linearGradient>
+      <linearGradient id="skitchensadovayafl" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#D9C6AC"/><stop offset="1" stop-color="#BBA487"/></linearGradient>
+      <linearGradient id="skitchensadovayacab" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59625C"/><stop offset=".52" stop-color="#59625C"/><stop offset="1" stop-color="#303B38"/></linearGradient>
+      <linearGradient id="skitchensadovayaglass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8DADC" stop-opacity=".8"/><stop offset="1" stop-color="#587078" stop-opacity=".48"/></linearGradient>
+      <filter id="skitchensadovayashadow"><feGaussianBlur stdDeviation="16"/></filter>
+      <pattern id="skitchensadovayagrain" width="65" height="180" patternUnits="userSpaceOnUse"><path d="M10 0q-18 54 3 104t4 76M44 0q15 90-2 180" fill="none" stroke="#FFFFFF" stroke-opacity=".1" stroke-width="3"/></pattern>
+      <pattern id="skitchensadovayatiles" width="105" height="105" patternUnits="userSpaceOnUse"><path d="M105 0H0V105" stroke="#fff" stroke-opacity=".32" fill="none" stroke-width="2"/></pattern>
+      </defs>
+      <rect width="1200" height="800" fill="url(#skitchensadovayawall)"/>
+      <path d="M0 585L1200 530V800H0Z" fill="url(#skitchensadovayafl)"/>
+      <path d="M0 585 1200 530" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="9"/>
+      <path d="M140 800 780 557M600 800 920 540M1060 800 1100 535" stroke="#EADDCF" stroke-opacity=".45" stroke-width="3"/>
+      <path d="M20 20v570" stroke="#b5a48e" stroke-opacity=".25" stroke-width="2"/>
+      <ellipse cx="600" cy="686" rx="520" ry="72" fill="#5d5245" opacity=".2" filter="url(#skitchensadovayashadow)"/>
+      
+        <rect x="66" y="112" width="247" height="469" rx="3" fill="#59625C"/><rect x="69" y="112" width="243" height="468" fill="url(#skitchensadovayagrain)"/>
+        <path d="M185 112v469M70 346h237" stroke="#e7d8c6" stroke-opacity=".26" stroke-width="3"/>
+        <path d="M177 198v70M200 198v70" stroke="#CEBFA9" stroke-width="4" stroke-linecap="round"/>
+        <rect x="342" y="136" width="783" height="198" fill="#59625C" />
+        <rect x="351" y="145" width="242" height="178" fill="#59625C" />
+        <rect x="602" y="145" width="252" height="178" fill="#59625C" />
+        <rect x="865" y="145" width="251" height="178" fill="#59625C" />
+        <path d="M596 138v196M860 138v196" stroke="#e4d4c3" stroke-opacity=".37" stroke-width="5"/>
+        <path d="M345 343h780" stroke="#EED9A4" stroke-width="7" stroke-opacity=".93"/>
+        <rect x="345" y="348" width="776" height="118" fill="#E0D2BE" />
+        <rect x="345" y="348" width="776" height="118" fill="url(#skitchensadovayatiles)" />
+        <rect x="330" y="461" width="812" height="24" rx="3" fill="#F6F0E7"/><rect x="346" y="485" width="777" height="102" fill="#8A796B"/>
+        <path d="M606 489v98M862 489v98" stroke="#F4E6D3" stroke-opacity=".35" stroke-width="4"/>
+        <rect x="581" y="482" width="207" height="104" fill="#2D3231" opacity=".75"/>
+        <rect x="597" y="494" width="177" height="88" fill="#242A28"/><rect x="622" y="498" width="127" height="46" fill="#303A38"/>
+        <circle cx="685" cy="559" r="6" fill="#d0c1ac"/>
+        <rect x="854" y="460" width="154" height="7" fill="#6f7270"/>
+        <path d="M893 459q-9-34 10-39t13 37" fill="none" stroke="#768383" stroke-width="8"/>
+        <path d="M124 654 820 619 1060 692 351 746Z" fill="#302b27" opacity=".2"/>
+        <path d="M270 580 819 563 1004 641 439 667Z" fill="#FAF4EC"/>
+        <path d="M439 667 1004 641 1004 704 439 740Z" fill="#8A796B"/>
+        <path d="M270 580 439 667v73L270 639Z" fill="#59625C"/>
+        <path d="M477 678 480 731M702 666 704 717" stroke="#f5e5ca" stroke-opacity=".26" stroke-width="4"/>
+        <ellipse cx="734" cy="610" rx="73" ry="20" fill="#ddd1c0"/><ellipse cx="734" cy="603" rx="33" ry="10" fill="#626d5e"/><path d="M728 591q-55-59-62-97M732 589q4-59 34-93M737 591q57-54 86-60" fill="none" stroke="#69705d" stroke-width="9" stroke-linecap="round"/><ellipse cx="665" cy="491" rx="27" ry="10" fill="#7d8a74" transform="rotate(-30 665 491)"/><ellipse cx="765" cy="503" rx="30" ry="13" fill="#7d8a74" transform="rotate(29 765 503)"/>
+        <path d="M675 0v99M918 0v99" stroke="#3d3e3c" stroke-width="3"/><path d="M650 104h52l32 57h-115Z" fill="#D8CFBE" opacity=".96"/><path d="M892 104h52l32 57h-115Z" fill="#D8CFBE" opacity=".96"/>
+        <rect x="0" y="0" width="1200" height="800" fill="#FFF1D8" opacity=".045"/>
+    <path d="M60 53h96M60 53v96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    <path d="M1140 747h-96M1140 747v-96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    </svg>

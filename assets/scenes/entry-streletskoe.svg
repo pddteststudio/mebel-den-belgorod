@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Авторский интерьерный эскиз мебели"><defs>
+      <linearGradient id="sentrystreletskoewall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EEE5"/><stop offset="1" stop-color="#EEE8DF"/></linearGradient>
+      <linearGradient id="sentrystreletskoefl" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#D9C6AC"/><stop offset="1" stop-color="#BBA487"/></linearGradient>
+      <linearGradient id="sentrystreletskoecab" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68675D"/><stop offset=".52" stop-color="#68675D"/><stop offset="1" stop-color="#464945"/></linearGradient>
+      <linearGradient id="sentrystreletskoeglass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8DADC" stop-opacity=".8"/><stop offset="1" stop-color="#587078" stop-opacity=".48"/></linearGradient>
+      <filter id="sentrystreletskoeshadow"><feGaussianBlur stdDeviation="16"/></filter>
+      <pattern id="sentrystreletskoegrain" width="65" height="180" patternUnits="userSpaceOnUse"><path d="M10 0q-18 54 3 104t4 76M44 0q15 90-2 180" fill="none" stroke="#FFFFFF" stroke-opacity=".1" stroke-width="3"/></pattern>
+      <pattern id="sentrystreletskoetiles" width="105" height="105" patternUnits="userSpaceOnUse"><path d="M105 0H0V105" stroke="#fff" stroke-opacity=".32" fill="none" stroke-width="2"/></pattern>
+      </defs>
+      <rect width="1200" height="800" fill="url(#sentrystreletskoewall)"/>
+      <path d="M0 585L1200 530V800H0Z" fill="url(#sentrystreletskoefl)"/>
+      <path d="M0 585 1200 530" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="9"/>
+      <path d="M140 800 780 557M600 800 920 540M1060 800 1100 535" stroke="#EADDCF" stroke-opacity=".45" stroke-width="3"/>
+      <path d="M20 20v570" stroke="#b5a48e" stroke-opacity=".25" stroke-width="2"/>
+      <ellipse cx="600" cy="686" rx="520" ry="72" fill="#5d5245" opacity=".2" filter="url(#sentrystreletskoeshadow)"/>
+      
+        <rect x="100" y="112" width="944" height="475" fill="#68675D"/>
+        <rect x="100" y="112" width="944" height="475" fill="url(#sentrystreletskoegrain)"/>
+        <rect x="110" y="120" width="208" height="451" fill="#AE9C88" opacity=".65"/>
+        <rect x="324" y="120" width="230" height="451" fill="#68675D" opacity=".75"/>
+        <rect x="560" y="120" width="252" height="451" fill="#AE9C88" opacity=".58"/>
+        <rect x="820" y="120" width="215" height="451" fill="#68675D" opacity=".85"/>
+        <path d="M318 120v452M555 120v452M815 120v452" stroke="#f6e6d1" stroke-opacity=".35" stroke-width="5"/>
+        <path d="M297 274v127M581 274v127M791 274v127M844 274v127" stroke="#BFB09C" stroke-width="5" stroke-linecap="round"/>
+        <rect x="101" y="105" width="952" height="12" fill="#EFE2D1"/>
+        <rect x="105" y="580" width="954" height="15" fill="#BDB5A8"/>
+        <path d="M107 596 1060 596" stroke="#5D4E44" stroke-opacity=".5" stroke-width="3"/>
+        <rect x="560" y="134" width="245" height="330" rx="3" fill="#D9D5CA"/><rect x="571" y="145" width="223" height="308" fill="url(#sentrystreletskoeglass)"/><path d="M595 153 585 430" stroke="#fff" stroke-opacity=".5" stroke-width="13"/>
+            <rect x="580" y="491" width="224" height="76" rx="5" fill="#B39374"/><rect x="580" y="479" width="224" height="22" rx="8" fill="#D6C3A8"/><rect x="0" y="0" width="1200" height="800" fill="#FFF1D8" opacity=".045"/>
+    <path d="M60 53h96M60 53v96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    <path d="M1140 747h-96M1140 747v-96" stroke="#FFF" opacity=".23" stroke-width="3"/>
+    </svg>
